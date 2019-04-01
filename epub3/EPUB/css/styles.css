@@ -1,0 +1,23 @@
+@charset "utf-8";
+@namespace epub "http://www.idpf.org/2007/ops";
+
+h1 {
+  text-align: center;
+}
+
+blockquote {
+  margin-right: 0;
+  margin-left: 0;
+
+  font-style: italic;
+}
+
+q {
+  font-style: italic;
+}
+
+em {
+  text-decoration: underline;
+
+  font-style: normal;
+}
